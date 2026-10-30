@@ -1,0 +1,13 @@
+streamlit>=1.50,<2
+openai>=1.99
+python-dotenv>=1.0
+pandas>=2.2
+plotly>=5.24
+pillow>=10.4
+fpdf2>=2.8
+pypdf>=5.0
+langchain-core>=0.3
+langchain-openai>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+faiss-cpu>=1.9
